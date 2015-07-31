@@ -1,0 +1,21 @@
+{
+  "name": "jsnotes",
+  "version": "1",
+  "authors": [
+    "Katelyn Sievert <katelyn.sievert@gmail.com>"
+  ],
+  "description": "venture media tech challenge",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
